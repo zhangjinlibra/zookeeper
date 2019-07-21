@@ -1,0 +1,4 @@
+server:
+  port: 5001
+
+spring:  application:    name: dept_consumer
